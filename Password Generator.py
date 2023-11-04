@@ -1,5 +1,5 @@
 
-#--------------------------------------------SIMPLE CALCULATOR---------------------------------------
+#--------------------------------------------RANDOM PASSWORD GENERATOR---------------------------------------
 #IMPORTING LIBRARIES
 import string
 import random
